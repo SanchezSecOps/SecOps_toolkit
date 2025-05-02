@@ -8,8 +8,13 @@ These tools were written in Python and designed for Debain based Linux distros o
 
    ### HOW TO USE
    -Download MAC_Daddy.py
+   
    -Place in an accessible directory
+   
    -Run Terminal and navigate to the designated directory where script is placed
+
    -type: *sudo python MAC_Daddy.py -i <network interface>*
+
    -You should receive confirmation on what your new MAC address is
+
    -type: *ip a* to see new MAC/ether
